@@ -1,4 +1,4 @@
-const WELCOME_MESSAGE = 'Hello Raf!';
+const WELCOME_MESSAGE = 'Hello World!';
 
 module.exports.handlers = {
     LaunchRequest() {
